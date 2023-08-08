@@ -5,10 +5,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-- 👋 Hi, I’m Moaz Omar Hamdy
+-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+- Hi, I’m Moaz Omar Hamdy
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning it
-- 💞️ I’m looking to be software Engineer Like Mr.Ahmed fathy <a href ="https://www.bing.com/ck/a?!&&p=f8f0ab40ec1e2be3JmltdHM9MTY5MTI4MDAwMCZpZ3VpZD0xMjcxOTM0NC0yNDIxLTY0ZjQtMWY3Ny04MDIwMjU1ZDY1MGImaW5zaWQ9NTE5Nw&ptn=3&hsh=3&fclid=12719344-2421-64f4-1f77-8020255d650b&psq=akfkhalid+Github&u=a1aHR0cHM6Ly9naXRodWIuY29tL2Fma2hhbGlk&ntb=1">(Ahmed Fathy Github)</a>
+- 🏫🏫🏫 I’m currently learning it
+- 🧑‍💻🧑‍💻🧑‍💻 I’m looking to be software Engineer Like Mr.Ahmed fathy <a href ="https://www.bing.com/ck/a?!&&p=f8f0ab40ec1e2be3JmltdHM9MTY5MTI4MDAwMCZpZ3VpZD0xMjcxOTM0NC0yNDIxLTY0ZjQtMWY3Ny04MDIwMjU1ZDY1MGImaW5zaWQ9NTE5Nw&ptn=3&hsh=3&fclid=12719344-2421-64f4-1f77-8020255d650b&psq=akfkhalid+Github&u=a1aHR0cHM6Ly9naXRodWIuY29tL2Fma2hhbGlk&ntb=1">(Ahmed Fathy Github)</a>
 
 
 
