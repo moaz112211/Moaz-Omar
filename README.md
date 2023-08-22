@@ -9,6 +9,7 @@
 - 👀 I’m interested in programming.
 - 🏫🏫🏫 I’m currently learning it.
 - 🧑‍💻🧑‍💻🧑‍💻 I’m looking to be software Engineer Like:<br><a href ="https://www.bing.com/ck/a?!&&p=f8f0ab40ec1e2be3JmltdHM9MTY5MTI4MDAwMCZpZ3VpZD0xMjcxOTM0NC0yNDIxLTY0ZjQtMWY3Ny04MDIwMjU1ZDY1MGImaW5zaWQ9NTE5Nw&ptn=3&hsh=3&fclid=12719344-2421-64f4-1f77-8020255d650b&psq=akfkhalid+Github&u=a1aHR0cHM6Ly9naXRodWIuY29tL2Fma2hhbGlk&ntb=1">(Mr.Ahmed fathy)</a> who made <a href="https://www.bing.com/ck/a?!&&p=860d9ed8b7eb314bJmltdHM9MTY5MjE0NDAwMCZpZ3VpZD0xMjcxOTM0NC0yNDIxLTY0ZjQtMWY3Ny04MDIwMjU1ZDY1MGImaW5zaWQ9NTE3Mg&ptn=3&hsh=3&fclid=12719344-2421-64f4-1f77-8020255d650b&psq=hgl%5dvsm&u=a1aHR0cHM6Ly9hbG1kcmFzYS5jb20v&ntb=1">almadrasa.com</a> You can learn in (almadrasa):👇👇<br>`HTML,CSS`<br>`Programming fundumentals:Python`<br>`Javascript,React`<br>`Programming fundumentels(This is for the kids)` <br>Or LikeThe programmer:<a href="https://www.bing.com/ck/a?!&&p=d91b0202935efbdbJmltdHM9MTY5MTQ1MjgwMCZpZ3VpZD0xMjcxOTM0NC0yNDIxLTY0ZjQtMWY3Ny04MDIwMjU1ZDY1MGImaW5zaWQ9NTE5OA&ptn=3&hsh=3&fclid=12719344-2421-64f4-1f77-8020255d650b&psq=Ibrahim+Adel+Github&u=a1aHR0cHM6Ly9naXRodWIuY29tL0licmFoaW1BZGVsMDE&ntb=1"> (Ibrahim Adel Github).</a>
+ Who made `American English` I think that you all know this app.
 
 
 
